@@ -35,6 +35,9 @@ languages:
                 - name: Wikinotes
                   url: notes/
                   weight: 10
+                - name: Tags
+                  url: tags/
+
  
 outputs:
     home:
