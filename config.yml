@@ -1,6 +1,6 @@
 baseURL: "https://balajivijayan.github.io/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: My Tech Tales
-paginate: 10
+paginate: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -31,9 +31,6 @@ languages:
                   weight: 10
                 - name: Tales
                   url: tales/
-                  weight: 10
-                - name: Wikinotes
-                  url: notes/
                   weight: 10
                 - name: Tags
                   url: tags/

@@ -1,13 +1,13 @@
 ---
 author: "Balaji Vijayn"
 title: "Hugo Notes"
-date: "2023-05-15"
-tags: ["hugo", "go"]
+date: "2023-05-10"
+description: "Write up about JVM and it's memory model"
+tags: ["java", "jvm"]
 ShowToc: false
 ---
 
-
-# Creating Hugo Website
+# Hugo Setup
 
 git submodule add --depth=1 https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
 
