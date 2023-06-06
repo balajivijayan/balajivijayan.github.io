@@ -47,7 +47,7 @@ private static final String DATE_FORMAT = "DD/MM/YYYY"
 
 ## Java Memory Management
 
-![JVM Architecture ](jvm-heap.drawio.svg)
+![JVM Heap ](jvm-heap.drawio.svg)
 
 
 
@@ -99,6 +99,15 @@ HotSpot allows you to pair up GC between young and old but only compatible GCs a
 - -XX:+UseGCLogFileRotation -XX:NumberOfGCLogFiles=50 -XX:GCLogFileSize=10M -Xloggc:/logs/gc.log -XX:+PrintGCDetails  -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+PrintTenuringDistribution -XX:+PrintGCApplicationStoppedTime 
 - -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/logs/heapdump.log 
 - -Xms & -Xmx
+
+- Enable Remote JMX 
+    -Dcom.sun.management.jmxremote \
+                    -Dcom.sun.management.jmxremote.authenticate=false \
+                    -Dcom.sun.management.jmxremote.ssl=false \
+                    -Dcom.sun.management.jmxremote.local.only=false \
+                    -Dcom.sun.management.jmxremote.port=9010 \
+                    -Dcom.sun.management.jmxremote.rmi.port=9010 \
+                    -Djava.rmi.server.hostname=127.0.0.1"
 
 ## References
 - https://docs.oracle.com/en/java/javase/20/vm/java-virtual-machine-technology-overview.html

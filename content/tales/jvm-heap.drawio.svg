@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="569px" height="169px" viewBox="-0.5 -0.5 569 169" content="&lt;mxfile&gt;&lt;diagram id=&quot;q41Rz80At01o2KyxOv_4&quot; name=&quot;Page-1&quot;&gt;5ZjLjpswFIafhk1X5p4sJySTbiJFSqWuLTgDbg2OjMmlT18D5moyZSSiSjNZROE/2Mbfbx8fYthBettzfE4OLAJqWCi6GfbWsCwP+fK7FO614DpOLcScRLVkdsKJ/AElIqUWJIJ8cKNgjApyHoohyzIIxUDDnLPr8LY3RoejnnEMmnAKMdXVnyQSSa2uLL/TvwOJk2Zk01vXkRQ3N6uZ5AmO2LUn2TvDDjhjov6V3gKgJbuGS93u9UG0fTAOmZjTwKobXDAt1Nx2EWTq2cS9mTBnRRZB2cY07M01IQJOZxyW0at0WGqJSKkKvxFKA0YZr9raHsJr0y91lome/lZ9pJ4Lzn5DL2JtfQ8hGdFnoyZ4AS7g1pPU7PbAUhD8Lm9R0bUCrVaa6avra+eb2ZiR9DzzlIbVUonbnjua8ocCOg3X1uCe0CdC227Hd9i6T0Lr6WjNz4TW+39ofQ3tD8gKLjkuyRehFa5ozeaLkOsvxdeesXSflhZWGuADCJxX5JZEjC2ELPcjiL1XhJZC7NgzEHtPQmyaGuNvRw4Xwoqclg95BJ7GEwednJwYQp1Yh+Z2E0ytaBdBiRVTEmdSCyU8kMFNCY3I6uFFBVISReWAk352jr+3OxYwyB3tgTah9A1yJgyylzBILzw0LyCLXspirURJcZ6TsLIDc6HLPcMeooFoUNXpYP6RXBuNA8WCXIa14BQMNcKREfkkjyqSttumh5wVPATVqF+6jfoZ5zCtI0kqBqF1VFnTznqeW86XdUs7Kcarf65dWj4cd7SgXXp1dMC/ZA6x0D74cMrLWAajbKekJRNdPWbzNrXUMe+MmDt6ips6ghbJcHoddSDZFzShPfibPOU9zQR52b061xun+//B3v0F&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="569px" height="169px" viewBox="-0.5 -0.5 569 169" content="&lt;mxfile&gt;&lt;diagram id=&quot;q41Rz80At01o2KyxOv_4&quot; name=&quot;Page-1&quot;&gt;7ZjLjpswFIafJpuuDA4mWU6YSzeRRkqlri04AbcGR8bk0qevAXOLSUorokqjySIK/8E2/n77+JAFDtLzm6SHZCsi4AsXRecFfl64LkG+/i6FSy14y2UtxJJFteR0wo79AiMioxYsgnxwoxKCK3YYiqHIMgjVQKNSitPwtr3gw1EPNAZL2IWU2+p3FqmkVleu3+lfgcVJM7JD1nUkpc3NZiZ5QiNx6kn4ZYEDKYSqf6XnAHjJruFSt3u9EW0fTEKmpjRw6wZHygszt5cIMvNs6tJMWIoii6Bs4yzw5pQwBbsDDcvoSTustUSl3IT3jPNAcCGrtpggunb8UheZ6un76qP1XEnxE3oR99knCOmIPRszwSNIBeeeZGb3BiIFJS/6FhNdG9BmpTm+uT51vjmNGUnPM2I0apZK3Pbc0dQ/DNBxuNiCu0MfCG27He+w9R6ElthonY+Elvw/tL6F9htkhdQc5+SL0IpWtCbzRcjz5+KLJyzdh6WFlQV4C4rmFbk5EVMXIdf7G8TkFaG5EC/xBMTkQYgdx2L85V3CkYki5+VDvoNM45GDTk9ODaGOrEPneROMrWgPQYmVchZnWgs1PNDBTQmN6erhyQRSFkXlgKN+do7f2x0zGORd7YE2ofQNWo4YhOcwyC48LC8gi57KYq1EyWmes7Cyg0ply7d3wZ6SVbWmLSMDH3v3VztEgzrQRvmHdNxoEjhV7DisHsfwmRHeBdNPcquGabtteshFIUMwjfrF3lU/11nP6kizjUFZHVVmtrOe5u/y09/J/lqn0fUOm2qwlXOvO5rRYLsC29IfGr2L3oJ/SatYH+7BSFolukzYz51W69Gbd7cHJ1q8vHaFWIl27CCcJc/a1dyWZZ82jdjUFihNdiT2eTiTTfqye8WvN1/3Pwl++Q0=&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="8" y="48" width="120" height="60" rx="9" ry="9" fill="#60a917" stroke="#2d7600" pointer-events="all"/>
@@ -103,42 +103,42 @@
                 </text>
             </switch>
         </g>
-        <path d="M 14.37 128 L 221.63 128" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
-        <path d="M 9.12 128 L 16.12 124.5 L 14.37 128 L 16.12 131.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 226.88 128 L 219.88 131.5 L 221.63 128 L 219.88 124.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 234.37 8 L 341.63 8" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
-        <path d="M 229.12 8 L 236.12 4.5 L 234.37 8 L 236.12 11.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 346.88 8 L 339.88 11.5 L 341.63 8 L 339.88 4.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <rect x="258" y="18" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 14.37 128 L 221.63 128" fill="none" stroke="#c73500" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 9.12 128 L 16.12 124.5 L 14.37 128 L 16.12 131.5 Z" fill="#c73500" stroke="#c73500" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 226.88 128 L 219.88 131.5 L 221.63 128 L 219.88 124.5 Z" fill="#c73500" stroke="#c73500" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 234.37 8 L 341.63 8" fill="none" stroke="#c73500" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 229.12 8 L 236.12 4.5 L 234.37 8 L 236.12 11.5 Z" fill="#c73500" stroke="#c73500" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 346.88 8 L 339.88 11.5 L 341.63 8 L 339.88 4.5 Z" fill="#c73500" stroke="#c73500" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="258" y="14" width="60" height="30" fill="#6a00ff" stroke="#3700cc" stroke-width="0.1" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 33px; margin-left: 259px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
-                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 29px; margin-left: 259px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
                                 Major GC
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="288" y="37" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="288" y="33" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Major GC
                 </text>
             </switch>
         </g>
-        <rect x="88" y="138" width="60" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <rect x="88" y="138" width="60" height="30" fill="#6a00ff" stroke="#3700cc" stroke-width="0.1" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
                     <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 153px; margin-left: 89px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
-                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
                                 Minor GC
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="118" y="157" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="118" y="157" fill="#ffffff" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Minor GC
                 </text>
             </switch>
